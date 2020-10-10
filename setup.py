@@ -49,6 +49,7 @@ setup(
         'twilio>=6.0.0,<6.1',
         'thehive4py>=1.4.4',
         'python-magic>=0.4.15',
-        'cffi>=1.11.5'
+        'cffi>=1.11.5',
+        'tzlocal<3.0'
     ]
 )
